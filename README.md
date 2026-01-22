@@ -78,8 +78,7 @@
 data_preprocessing/
 ├── README.md
 ├── requirements.txt
-├── notebooks/
- └── analysis.ipynb # Основной анализ
+├── analysis.ipynb # Основной анализ
 ├── datasets/
  └── new_games.csv # Исходный датасет
 ```
@@ -111,7 +110,7 @@ pip install -r requirements.txt
 3. **Запустите Jupyter Notebook**
 ```bash
 
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook analysis.ipynb
 ```
 
 4. **Выполните все ячейки**
